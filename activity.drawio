@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T22:44:59.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="K4UjQID2XKeP4IuzL0FY" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-27T22:45:54.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="N6HL4wESHC6GOLLOZG3W" version="17.4.6" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Activity">
     <mxGraphModel dx="1378" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
       <root>
@@ -597,6 +597,16 @@
         </mxCell>
         <mxCell id="4doBsaZYVXjvTIpYq76V-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fontSize=14;fontColor=none;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="228.25" y="657.5" width="35.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="R8jcXMNrx3j7FKwXARfU-1" value="the user must has been registered for 10 days to be able to edit" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=12;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="332" y="352.5" width="168" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="R8jcXMNrx3j7FKwXARfU-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=14;fontColor=none;strokeWidth=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R8jcXMNrx3j7FKwXARfU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="212.40999999999985" y="369.5" as="sourcePoint" />
+            <mxPoint x="282" y="375" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
